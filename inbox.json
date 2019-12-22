@@ -1,10 +1,10 @@
 [{
 	"id": 1,
 	"isImportant": false,
-	"picture": "https://api.androidhive.info/json/google.png",
-	"from": "GoogleMG",
-	"subject": "Google Alert - android",
-	"message": "Now android supports multiple voice recogonization",
+	"picture": "",
+	"from": "Pamesh",
+	"subject": "پروژه جدید",
+	"message": "لطفا مطالعه کنید",
 	"timestamp": "10:30 AM",
 	"isRead" : false
 },
