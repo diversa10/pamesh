@@ -2,7 +2,7 @@
 	"id": 1,
 	"isImportant": false,
 	"picture": "https://api.androidhive.info/json/google.png",
-	"from": "Google Alerts",
+	"from": "GoogleMG",
 	"subject": "Google Alert - android",
 	"message": "Now android supports multiple voice recogonization",
 	"timestamp": "10:30 AM",
